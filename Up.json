@@ -1,12 +1,12 @@
 {
-  "versionCode": 220,
-  "versionName": "2.2.1",
+  "versionCode": 0,
+  "versionName": "0",
   "apkSize": 1,
   "enabledDark": true,
-  "forceUp": false,
+  "forceUp": true,
   "whatIsNew": [
     "O arquivo vai direto pra sua pasta de download do celular com o nome *Atualização.apk*",
     "Salve pro ad, maic, bolofa e outros parças"
   ],
-  "apkUrl": "https://www.dropbox.com/scl/fi/034citdh14suy29mxbebw/update-1.apk?rlkey=924bdy7cevm44hf178vxc2ftg&st=88xdfpdn&dl=0"
+  "apkUrl": "https://www.dropbox.com/scl/fi/034citdh14suy29mxbebw/update-1.apk?rlkey=924bdy7cevm44hf178vxc2ftg&st=88xdfpdn&dl=1"
 }
